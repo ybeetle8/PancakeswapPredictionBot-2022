@@ -17,7 +17,7 @@
   </a>
 
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
-This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
+This bot survived the beta and is now in the full version. Feel Free to contact us: bitcoincompany123@gmail.com
 ## our thanks:
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
