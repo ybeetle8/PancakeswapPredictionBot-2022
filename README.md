@@ -30,7 +30,7 @@ Thank's to Empaticgame! ❤️.
 
 UPDATE SOON FOR MORE PROFIT!!!
 
-## 💡 Installation 
+## 💡 Installation
 
 Download & Install Node here :
 https://nodejs.org/en/download/
