@@ -1,5 +1,5 @@
 
-# **🥞 PancakeSwap Prediction v2.0.1 (Update 2022) 🥞**
+# **🥞 PancakeSwap Prediction v2.0.1 Bot (Update 2022) 🥞**
 
 ![PancakeSwap-Logo-Big](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2F3ab3800a435b1c3c4f239e95cebbc5547ba8a900.png?generation=1626159013583031&alt=media)
 <p align="center">
