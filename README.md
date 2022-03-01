@@ -26,7 +26,7 @@ ETH - 0x041e1464099afcc5996B84372403b749D0B14b97
 
 BNB - 0x041e1464099afcc5996B84372403b749D0B14b97  
   
-Thank's to Empaticgame! ❤️
+Thank's to Empaticgame! ❤️ 
 
 UPDATE SOON FOR MORE PROFIT!!!
 
