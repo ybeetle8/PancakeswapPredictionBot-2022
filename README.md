@@ -1,7 +1,7 @@
 
 # **🥞 PancakeSwap Prediction v2.0.1 Bot (Update 2022) 🥞**
 
-![PancakeSwap-Logo-Big](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2F3ab3800a435b1c3c4f239e95cebbc5547ba8a900.png?generation=1626159013583031&alt=media)
+![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
 <p align="center">
   <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/parames3010?style=social">
