@@ -13,7 +13,7 @@
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/parames3010/PancakeswapPredictionBot-2022?style=social">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
-    <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @SavannahCat" />
+    <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
   </a>
 
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
