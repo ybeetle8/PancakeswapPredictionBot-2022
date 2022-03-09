@@ -88,7 +88,7 @@ MIT License
 
 ***bitcoincompany123@gmail.com
   
-## 🪙 Donate:
+## 🍻 Donate:
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
