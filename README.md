@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
   </a>
 
-This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
-This bot survived the beta and is now in the full version.
+This bot wins the majority of rounds on PancakeSwap & CandleGenie based on both market conditions, and the strategy chosen.
 
 ## 💡 Installation
 
