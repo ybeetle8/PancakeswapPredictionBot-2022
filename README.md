@@ -17,7 +17,7 @@
   </a>
 
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
-This bot survived the beta and is now in the full version. Feel Free to contact us: bitcoincompany123@gmail.com
+This bot survived the beta and is now in the full version.
 
 ## 💡 Installation
 
