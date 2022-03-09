@@ -66,6 +66,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 ![History_2](https://user-images.githubusercontent.com/37302442/142724431-48a7c301-ee59-4485-9733-3ee5a0303c00.PNG)
 
 #### 📢 Advice:
+  
 - Run the bot with your wallet at a ratio of 10x the amount you choose to bet
 - Adjust the bot accordingly to bet with or against the majority.
 - When the chart swings, use the "--with" strategy.
@@ -76,6 +77,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
 
 ## 🛑 Disclaimers
+  
 All investment strategies and investments involve risk of loss.
 
 **Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
@@ -85,8 +87,8 @@ Any reference to an investment's past or potential performance is not, and shoul
 MIT License
 
 ## 📧 If you need some help contact me
-
-***bitcoincompany123@gmail.com
+  
+Feel Free to contact us: bitcoincompany123@gmail.com
   
 ## 🍻 Donate:
 
