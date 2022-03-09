@@ -76,10 +76,6 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 
 ## 💼 License
 MIT License
-
-## 📧 If you need some help contact me
-  
-Feel Free to contact us: bitcoincompany123@gmail.com
   
 ## 🍻 Donate:
 
@@ -98,4 +94,7 @@ Any reference to an investment's past or potential performance is not, and shoul
   
 ## 📚 Credits:
 - [AvalerionHF](https://github.com/AvalerionHF) for the original repository.
+  
+## 📧 Contact
+Feel Free to contact us: bitcoincompany123@gmail.com
   
