@@ -53,8 +53,6 @@ BET_AMOUNT="0.01"
 RPC="https://bsc-dataseed.binance.org/"
 ```
 
-Note: This is not production ready script so please make sure to change ``to:`` field in ``src/index.ts`` and ``src/candle-genie.ts``.
-
 ## ✨ Screenshots. 
 
 To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction
