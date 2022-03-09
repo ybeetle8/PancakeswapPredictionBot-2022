@@ -18,17 +18,13 @@
 
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: bitcoincompany123@gmail.com
-## our thanks:
+## Donate:
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
 ETH - 0x041e1464099afcc5996B84372403b749D0B14b97
 
 BNB - 0x041e1464099afcc5996B84372403b749D0B14b97  
-  
-Thank's to Empaticgame! ❤️
-
-UPDATE SOON FOR MORE PROFIT!!! 
 
 ## 💡 Installation
 
