@@ -72,13 +72,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Consistent gains will be made by running smaller betting amounts over longer periods of time. 
 - Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit. 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
-
-## 💥 Disclaimers
   
-All investment strategies and investments involve risk of loss.
-
-**Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
-Any reference to an investment's past or potential performance is not, and should not be construed as, a recommendation or as a guarantee of any specific outcome or profit. By using this program you accept all liabilities, and that no claims can be made against the developers or others connected with the program.
 
 ## 💼 License
 MIT License
@@ -94,3 +88,10 @@ BOT is free-to-use, but you are welcome to appreciate my work ☺️
 ETH - 0x041e1464099afcc5996B84372403b749D0B14b97
 
 BNB - 0x041e1464099afcc5996B84372403b749D0B14b97  
+
+## 💥 Disclaimers
+  
+All investment strategies and investments involve risk of loss.
+
+**Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
+Any reference to an investment's past or potential performance is not, and should not be construed as, a recommendation or as a guarantee of any specific outcome or profit. By using this program you accept all liabilities, and that no claims can be made against the developers or others connected with the program.
