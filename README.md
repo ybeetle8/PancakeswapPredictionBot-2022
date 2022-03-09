@@ -29,7 +29,7 @@ Then run command prompt or powershell
 - Type ``cd PancakeswapPredictionBot2.0.1`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
-## 🗺️ Usage 
+## 🧑‍🚀 Usage
 
 1. Copy/rename **.env_example** to **.env** ``cp .env_example .env``
 2. Provide your private key to .env PRIVATE_KEY field.
@@ -53,7 +53,7 @@ BET_AMOUNT="0.01"
 RPC="https://bsc-dataseed.binance.org/"
 ```
 
-## ✨ Screenshots. 
+## 🧪 Screenshots
 
 To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction
 
@@ -74,7 +74,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit. 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
 
-## 🛑 Disclaimers
+## 💥 Disclaimers
   
 All investment strategies and investments involve risk of loss.
 
