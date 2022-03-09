@@ -97,5 +97,5 @@ Any reference to an investment's past or potential performance is not, and shoul
 - [AvalerionHF](https://github.com/AvalerionHF) for the original repository.
   
 ## 📧 Contact
-Feel Free to contact us: bitcoincompany123@gmail.com
+- bitcoincompany123@gmail.com
   
