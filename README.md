@@ -75,6 +75,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
   
 
 ## 💼 License
+ 
 MIT License
   
 ## 🍻 Donate
