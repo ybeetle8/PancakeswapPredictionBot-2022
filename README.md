@@ -18,7 +18,7 @@
 
 This bot wins majority of rounds on PancakeSwap & CandleGenie based on both market conditions, and the strategy chosen.
 
-## 💡 Installation 
+## 💡 Installation
 
 Download & Install Node here :
 https://nodejs.org/en/download/
