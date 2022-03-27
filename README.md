@@ -28,7 +28,7 @@ Then run command prompt or powershell
 - Type ``cd PancakeswapPredictionBot2.0.1`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
-## 🧑‍🚀 Usage
+## 🧑‍🚀 Usage 
 
 1. Copy/rename **.env_example** to **.env** ``cp .env_example .env``
 2. Provide your private key to .env PRIVATE_KEY field.
