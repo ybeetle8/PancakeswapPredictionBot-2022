@@ -54,7 +54,7 @@ RPC="https://bsc-dataseed.binance.org/"
 
 ## 🧪 Screenshots
 
-To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction
+To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction 
 
 ![History](https://user-images.githubusercontent.com/37302442/142716425-eb32f875-a767-4f22-abf1-6d97071dbd6d.png)
 
