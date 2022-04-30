@@ -42,7 +42,7 @@ Then run command prompt or powershell
 3. Account details
 4. Export Private Key.
 
-### ✔️ Sample ``.ENV`` file 
+### ✔️ Sample ``.ENV`` file
 ```
 # Your wallet private key. 
 PRIVATE_KEY="YOUR_PRIVATE_KEY_HERE"
