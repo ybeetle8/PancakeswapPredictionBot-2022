@@ -74,7 +74,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
   
 
-## 💼 License
+## 💼 License 
  
 MIT License
   
