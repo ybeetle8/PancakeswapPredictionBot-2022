@@ -44,7 +44,7 @@ Then run command prompt or powershell
 
 ### ✔️ Sample ``.ENV`` file 
 ```
-# Your wallet private key. 
+# Your wallet private key.
 PRIVATE_KEY="YOUR_PRIVATE_KEY_HERE"
 # The maximum bet amount you are willing to execute.
 BET_AMOUNT="0.01"
